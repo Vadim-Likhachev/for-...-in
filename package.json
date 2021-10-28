@@ -1,0 +1,32 @@
+{
+  "name": "forin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-Likhachev/for-...-in.git"
+  },
+  "author": "Vadim Likhachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim-Likhachev/for-...-in/issues"
+  },
+  "homepage": "https://github.com/Vadim-Likhachev/for-...-in#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^27.3.1",
+    "eslint": "^8.1.0",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.19.0"
+  }
+}
