@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import orderByProps from '../js/app';
 
 test('результат orderByProps', () => {
